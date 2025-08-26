@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shanmukhasaibada.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
 
