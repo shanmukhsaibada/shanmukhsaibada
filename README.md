@@ -20,7 +20,7 @@
 - 🛠 Proficient in **data warehousing, dashboards, and machine learning techniques** to drive actionable insights.  
 - 🚀 Passionate about turning raw data into clear, impactful stories through analytics, innovation, and collaboration.  
 
-### Expertise Highlights  
+### 🏆 Expertise Highlights  
 
 - 📊 Business Intelligence & Visualization: Built interactive dashboards in Power BI, Tableau, and Excel to track KPIs.
 - 🧮 Data Analysis & Predictive Modeling: Applied statistical analysis, clustering, and regression to improve forecasting.  
