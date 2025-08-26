@@ -15,14 +15,14 @@
   
 ### 👋 Hi, I'm Shanmukha Sai Bada  
 
-- 🎓 Data Analyst with 2+ years of experience in **SQL, Python, Tableau, Power BI, and Excel**, delivering insights that improve decision-making and business performance.  
+- 🎓 Data Analyst with 2+ years’ experience in SQL, Python, Tableau, Power BI, and Excel, delivering actionable business insights  
 - 💻 Skilled in **data cleaning, analysis, visualization, and predictive modeling** with a strong background in Information Technology.  
 - 🛠 Proficient in **data warehousing, dashboards, and machine learning techniques** to drive actionable insights.  
 - 🚀 Passionate about turning raw data into clear, impactful stories through analytics, innovation, and collaboration.  
 
 ### Expertise Highlights  
 
-- 📊 **Business Intelligence & Visualization:** Built interactive dashboards in Power BI, Tableau, and Excel, helping stakeholders track KPIs and optimize operations.  
+- 📊 **Business Intelligence & Visualization:** Built interactive dashboards in Power BI, Tableau, and Excel, helping stakeholders track KPIs and much more.  
 - 🧮 **Data Analysis & Predictive Modeling:** Applied statistical analysis, clustering, and regression models to improve forecasting and decision-making.  
 - 🛠 **Data Engineering:** Experience in data preparation, ETL, and integration using SQL, Python (Pandas, NumPy), and cloud platforms.  
 - ☁️ **Cloud & Big Data Tools:** Worked with cloud platforms for scalable data storage and management.  
