@@ -11,7 +11,7 @@
 
 <br/>
 
-<div align="center">
+<div align="Left">
  
 # 🚀 About Me  
 
