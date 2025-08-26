@@ -10,11 +10,10 @@
 <h3 align="center">A passionate Data Analyst </h3>
 
 <br/>
+# 🚀 About Me 
 
 <div align="Left">
- 
-# 🚀 About Me  
-
+  
 ### 👋 Hi, I'm Shanmukha Sai Bada  
 
 - 🎓 Data Analyst with 2+ years of experience in **SQL, Python, Tableau, Power BI, and Excel**, delivering insights that improve decision-making and business performance.  
