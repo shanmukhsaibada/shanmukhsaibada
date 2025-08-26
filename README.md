@@ -22,8 +22,8 @@
 
 ### Expertise Highlights  
 
-- 📊 **Business Intelligence & Visualization:** Built interactive dashboards in Power BI, Tableau, and Excel, helping stakeholders track KPIs and much more.  
-- 🧮 **Data Analysis & Predictive Modeling:** Applied statistical analysis, clustering, and regression models to improve forecasting and decision-making.  
+- 📊 Business Intelligence & Visualization: Built interactive dashboards in Power BI, Tableau, and Excel to track KPIs and support decision-making.
+- 🧮 Data Analysis & Predictive Modeling: Applied statistical analysis, clustering, and regression to improve forecasting and business outcomes.  
 - 🛠 **Data Engineering:** Experience in data preparation, ETL, and integration using SQL, Python (Pandas, NumPy), and cloud platforms.  
 - ☁️ **Cloud & Big Data Tools:** Worked with cloud platforms for scalable data storage and management.  
 - 🗄 **Programming & Databases:** Strong knowledge of SQL, Python, Excel, and data management for business analytics applications.  
