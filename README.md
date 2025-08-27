@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Tableau,mysql,postgresql,google%20analytics,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=Tableau,mysql,postgresql,googleanalytics,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,,flask" /><br>
 </div>
 
