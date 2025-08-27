@@ -72,6 +72,22 @@
 
 <hr/>
 
+<div align="center">
+
+## 📊 My Latest Projects
+
+### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+
+### [Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
+[![Excel](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
+
+### [SQL Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+[![SQL](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+
+</div>
+
+
 <div align="center"> 
   <a href="badashanmukhasai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
