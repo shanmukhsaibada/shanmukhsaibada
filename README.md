@@ -76,14 +76,18 @@
 
 ## 📊 My Latest Projects
 
-### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
-[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+### [SQL Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+[![SQL](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
 
 ### [Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
 [![Excel](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
 
-### [SQL Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
-[![SQL](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+
+
+### [Excel Project](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
+[![Excel](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2/blob/main/blinkit.PNG)](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
 
 </div>
 
