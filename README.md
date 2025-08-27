@@ -28,3 +28,15 @@
 - ☁️ **Cloud & Big Data Tools:** Worked with cloud platforms for scalable data storage and management.  
 - 🗄 **Programming & Databases:** Strong knowledge of SQL, Python, Excel, and data management for business analytics applications.  
  </div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=Tableau,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
