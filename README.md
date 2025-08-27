@@ -46,5 +46,5 @@
  <img src="{BadgeURLHere}" />
 </div>
 
-<br/>
+<br/> 
 <hr/>
