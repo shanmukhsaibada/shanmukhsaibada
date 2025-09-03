@@ -94,6 +94,14 @@
 
 [![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/CARDASH.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
 
+---
+
+### Tableau HR Analytics Dashboard  
+[![Tableau HR Analytics](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
+
+---
+
+
 
 </div>
 
