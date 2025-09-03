@@ -92,7 +92,7 @@
 
 ### [Tableau Car Sales Dashboard](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
 
-[![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/carsales.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
+[![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/CARDASH.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
 
 
 </div>
