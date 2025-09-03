@@ -90,7 +90,8 @@
 [![Excel](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2/blob/main/blinkit.PNG)](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
 
 
-### Tableau Car Sales Dashboard
+### [Tableau Car Sales Dashboard](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
+
 [![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/carsales.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
 
 
