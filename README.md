@@ -96,12 +96,23 @@
 
 ---
 
+### [Tableau IPL Analysis Dashboard](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3)
+
+[![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3/blob/main/ipldemogiffy.gif)](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3)
+
+---
+
+
 ### Tableau HR Analytics Dashboard  
 [![Tableau HR Analytics](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
 
 ---
 
+### [LEET CODE & SQL PRACTICE ](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
 
+[![Tableau Car Sales](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/blob/main/leetcodepic.png)](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
+
+---
 
 </div>
 
