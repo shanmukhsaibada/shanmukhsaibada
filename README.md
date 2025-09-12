@@ -82,17 +82,16 @@
 ### [Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
 [![Excel](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
 
-### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
-[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
-
-
 ### [Excel Project](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
 [![Excel](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2/blob/main/blinkit.PNG)](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
-
 
 ### [Tableau Car Sales Dashboard](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
 
 [![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/CARDASH.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
+
+---
+### Tableau HR Analytics Dashboard  
+[![Tableau HR Analytics](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
 
 ---
 
@@ -102,18 +101,14 @@
 
 ---
 
-
-### Tableau HR Analytics Dashboard  
-[![Tableau HR Analytics](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
-
----
-
 ### [LEET CODE & SQL PRACTICE ](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
 
 [![Tableau Car Sales](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/blob/main/leetcodepic.png)](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
 
 ---
 
+### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
 </div>
 
 <hr/>
