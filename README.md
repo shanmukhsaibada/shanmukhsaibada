@@ -107,8 +107,8 @@
 
 ---
 
-### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
-[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3)
+### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5)
+[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Patient_Waitlist_Analytics_P3/blob/main/patientsdashboard.PNG)](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5)
 </div>
 
 <hr/>
