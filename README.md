@@ -80,7 +80,7 @@
 [![SQL](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5)
 
 ### [PowerBI Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
-[![POWERBI](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5/blob/main/bmwthumbnail.png)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+[![POWERBI](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5/blob/main/bmwthumbnai.png)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
 
 ### [Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
 [![Excel](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
