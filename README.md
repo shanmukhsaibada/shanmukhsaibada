@@ -1,133 +1,220 @@
-
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shanmukhasaibada.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shanmukhsaibada.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
 
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Cooper&weight=700&pause=400&color=ff7f0e&width=435&lines=Hello+%F0%9F%91%8B;This+is+Shanmukha+Sai+Bada+%F0%9F%8F%8B%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+;A+Experienced+Data+Analyst+%F0%9F%92%BB;And+a+Great+Story+Teller+from+India%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cooper&weight=700&pause=400&color=FF7F0E&width=500&lines=Hi%2C+I'm+Shanmukha+Sai;Senior+Financial+Analyst;FP%26A+%7C+Financial+Modeling;Turning+Data+into+Business+Insights" alt="Typing SVG" />
 </h1>
-<h3 align="center">  🚀 About Me  </h3>
 
-<br/>
-                                                     
-<div align="Left">
-  
-### 👋 Hi, I'm Shanmukha Sai Bada  
+<h3 align="center">Senior Financial Analyst | FP&A | Business Intelligence</h3>
 
-- 🎓 Data Analyst with 4+ years’ experience in SQL, Python, Tableau, Power BI, and Excel, delivering actionable business insights  
-- 💻 Skilled in **data cleaning, analysis, visualization, and predictive modeling** with a strong background in Information Technology.  
-- 🛠 Proficient in **data warehousing, dashboards, and machine learning techniques** to drive actionable insights.  
-- 🚀 Passionate about turning raw data into clear, impactful stories through analytics, innovation, and collaboration.  
-
-### 🏆 Expertise Highlights  
-
-- 📊 Business Intelligence & Visualization: Built interactive dashboards in Power BI, Tableau, and Excel to track KPIs.
-- 🧮 Data Analysis & Predictive Modeling: Applied statistical analysis, clustering, and regression to improve forecasting.  
-- 🛠 **Data Engineering:** Experience in data preparation, ETL, and integration using SQL, Python (Pandas, NumPy), and cloud platforms.  
-- ☁️ **Cloud & Big Data Tools:** Worked with cloud platforms for scalable data storage and management.  
-- 🗄 **Programming & Databases:** Strong knowledge of SQL, Python, Excel, and data management for business analytics applications.  
- </div>
-
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <p align="center">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-    
-
-</div>
-
-<br/> 
-<hr/>
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shanmukhsaibada/shanmukhsaibada/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> 
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shanmukhsaibada&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br/><br/>
-
-<hr/>
-
-<div align="center">
-
-## 📊 My Latest Projects
-
-### [SQL Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
-[![SQL](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
-
-### [PowerBI Project](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5)
-[![POWERBI](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5/blob/main/bmwthumbnai.png)](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5)
-
-### [Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
-[![Excel](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
-
-### [Excel Project](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
-[![Excel](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2/blob/main/blinkit.PNG)](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
-
-### [Tableau Car Sales Dashboard](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
-
-[![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/CARDASH.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
-
----
-### Tableau HR Analytics Dashboard  
-[![Tableau HR Analytics](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
-
----
-
-### [Tableau IPL Analysis Dashboard](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3)
-
-[![Tableau Car Sales](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3/blob/main/ipldemogiffy.gif)](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3)
-
----
-
-### [LEET CODE & SQL PRACTICE ](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
-
-[![Tableau Car Sales](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/blob/main/leetcodepic.png)](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
-
----
-
-### [Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5)
-[![Power BI](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5/blob/main/addidas.PNG)](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5)
-</div>
-
-
-<hr/>
-
-<div align="center"> 
-
-## ☎📞 Let's Connect
- 
-  <a href="badashanmukhasai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://linkedin.com/in/shanmukha-sai-bada">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/shanmukha-sai-bada" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="mailto:shamukhasai@sharemejobs.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://shanmukhsaibada.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a **Senior Financial Analyst with 4+ years of experience** in financial planning and analysis (FP&A), budgeting, forecasting, financial modeling, variance analysis, and management reporting.
+
+I specialize in translating complex financial and operational data into actionable insights that support business decisions, improve financial visibility, and optimize resource allocation.
+
+Currently, I support financial planning and analysis activities at **MetLife**, working across budgeting, forecasting, financial performance reporting, and process automation.
+
+Previously, at **Adons Softech**, I supported financial reporting, revenue forecasting, general ledger reconciliation, and business intelligence initiatives.
+
+I'm passionate about combining financial expertise with data analytics and automation to make financial reporting more accurate, efficient, and insightful.
+
+### 🎯 Areas of Expertise
+
+- 📊 **Financial Planning & Analysis:** Budgeting, forecasting, reforecasting, and budget-versus-actual analysis.
+- 💰 **Financial Modeling:** Revenue, operating expenses, profitability, cash flow, and scenario analysis.
+- 📈 **Variance & Trend Analysis:** Identifying financial drivers, investigating variances, and recommending improvements.
+- 📑 **Financial Reporting:** Management reports, executive dashboards, KPI reporting, and month-end close support.
+- ⚙️ **Reporting Automation:** Streamlining financial workflows using Excel, VBA, SQL, and Python.
+- 🤝 **Business Partnership:** Collaborating with accounting, finance, and cross-functional stakeholders to support business decisions.
+
+---
+
+## 💼 Professional Experience
+
+### Senior Financial Analyst | MetLife
+*January 2025 – Present*
+
+- Support FP&A activities for a **$30M operational portfolio**, including monthly forecasting, quarterly reforecasting, and budget analysis.
+- Develop financial models covering revenue, operating expenses, profitability, and cash flow.
+- Perform monthly budget-to-actual and variance analysis to identify key financial drivers.
+- Build executive reporting packages and KPI dashboards using Tableau and Excel, contributing to a **25% reduction in reporting cycle time**.
+- Automate recurring reporting workflows using Advanced Excel, VBA, and macros, eliminating **10+ hours of manual work per reporting cycle**.
+- Analyze operational expenses and identify opportunities that contributed to approximately **$120K in cost efficiencies**.
+- Use SQL and Python/Pandas to automate financial data preparation and reporting.
+- Support month-end close and financial planning processes using SAP ERP.
+
+### Financial Analyst | Adons Softech
+*October 2021 – December 2023*
+
+- Supported monthly FP&A reporting, financial analysis, and revenue forecasting.
+- Developed financial models and scenario analyses using Advanced Excel and Power Query.
+- Performed budget-versus-actual analysis for capital expenditures (CapEx) and operating expenses (OpEx).
+- Built Power BI dashboards using SQL-based data sources, reducing manual reporting and data retrieval by approximately **40%**.
+- Performed general ledger reconciliations and validated financial data during month-end close.
+- Used Excel Power Pivot to standardize financial data validation and reporting processes.
+- Prepared ad hoc financial analyses, trend analyses, and cost-benefit analyses for management.
+
+---
+
+## 🛠️ Technical Skills
+
+### Financial Analysis & FP&A
+
+![FP&A](https://img.shields.io/badge/FP%26A-1F4E79?style=for-the-badge)
+![Budgeting](https://img.shields.io/badge/Budgeting-1F4E79?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-1F4E79?style=for-the-badge)
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-1F4E79?style=for-the-badge)
+![Variance Analysis](https://img.shields.io/badge/Variance_Analysis-1F4E79?style=for-the-badge)
+
+### Analytics & Reporting
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Automation & Enterprise Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot"/>
+  <img src="https://img.shields.io/badge/VBA_&_Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA and Macros"/>
+  <img src="https://img.shields.io/badge/SAP_ERP-0FA5E9?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ERP"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+---
+
+## 📊 Featured Projects & Analytics Portfolio
+
+My project portfolio demonstrates SQL problem-solving, dashboard development, data analysis, and business intelligence skills.
+
+### 1. SQL Business Analysis — Netflix
+
+[![Netflix SQL Project](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4/blob/main/netflixposter.jpg)](https://github.com/shanmukhsaibada/Sql_Netflix_Business_Problems_Project4)
+
+Explore SQL queries and business questions using a media dataset.
+
+**Skills:** SQL, data analysis, business problem-solving.
+
+### 2. Power BI Dashboard — BMW Analytics
+
+[![BMW Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5/blob/main/bmwthumbnai.png)](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5)
+
+Interactive dashboard project demonstrating KPI visualization and analytical reporting.
+
+**Skills:** Power BI, data visualization, KPI reporting.
+
+### 3. Excel Dashboard — Bank Loan Analysis
+
+[![Bank Loan Excel Project](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3/blob/main/summarydashboard.PNG)](https://github.com/shanmukhsaibada/Excel_BankLoan_Data_Analysis_3)
+
+Excel-based analysis and dashboard reporting using bank loan data.
+
+**Skills:** Excel, data analysis, dashboard development.
+
+### 4. Excel Dashboard — Blinkit Analysis
+
+[![Blinkit Excel Project](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2/blob/main/blinkit.PNG)](https://github.com/shanmukhsaibada/Excel_Blinkit_Data_Analysis_2)
+
+Data analysis and visual reporting using retail-related data.
+
+**Skills:** Excel, data cleaning, visualization.
+
+### 5. Tableau Dashboard — Car Sales
+
+[![Car Sales Tableau Project](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2/blob/main/CARDASH.PNG)](https://github.com/shanmukhsaibada/Tableau_Car_Sales_p2)
+
+Interactive dashboard showcasing sales metrics and business performance visualization.
+
+**Skills:** Tableau, KPI dashboards, reporting.
+
+### 6. Tableau Dashboard — HR Analytics
+
+[![HR Analytics Tableau Project](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1/blob/main/HRdashboard.PNG)](https://github.com/shanmukhsaibada/Tableau_Hr_Analytics_p1)
+
+Dashboard project focused on HR-related metrics and analytical reporting.
+
+**Skills:** Tableau, data visualization, KPI analysis.
+
+### 7. Tableau Dashboard — IPL Analysis
+
+[![IPL Tableau Project](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3/blob/main/ipldemogiffy.gif)](https://github.com/shanmukhsaibada/Tableau_IPL_Analysis_p3)
+
+Interactive sports analytics project using Tableau.
+
+**Skills:** Tableau, data analysis, visualization.
+
+### 8. Power BI Dashboard — Adidas Sales
+
+[![Adidas Power BI Project](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5/blob/main/addidas.PNG)](https://github.com/shanmukhsaibada/PowerBI_Adidas_Sales_Dashboard_P5)
+
+Sales dashboard project demonstrating business performance reporting and visualization.
+
+**Skills:** Power BI, sales analytics, dashboard development.
+
+### 9. SQL Practice & Problem Solving
+
+[![SQL Practice](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/blob/main/leetcodepic.png)](https://github.com/shanmukhsaibada/Leetcode_Solved_Questions_and_Practice/tree/main)
+
+A collection of SQL practice problems and coding exercises.
+
+**Skills:** SQL, querying, logical problem-solving.
+
+---
+
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shanmukhsaibada/shanmukhsaibada/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shanmukhsaibada&count_private=true&theme=react&border_radius=10" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Master of Science in Information Technology**  
+Northern Arizona University, Flagstaff, Arizona  
+January 2024 – May 2025
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving financial analysis, FP&A, financial planning, business intelligence, reporting automation, and data-driven decision-making.
+
+<p align="center">
+  <a href="https://linkedin.com/in/shanmukha-sai-bada">
+    <img src="https://img.shields.io/badge/LinkedIn-Shanmukha_Sai_Bada-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
-</div>
+  <a href="mailto:shamukhasai@sharemejobs.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Turning financial data into meaningful business insights.</i>
+</p>
